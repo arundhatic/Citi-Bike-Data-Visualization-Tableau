@@ -32,7 +32,7 @@ The task in this project is to aggregate the data found in the **Citi Bike Trip 
 
 * How variable is the utilization by bike ID?
  
-## Data
+## Data extraction and preparation
 
 The data used for this project were collected from [Citi Bike Data](https://www.citibikenyc.com/system-data), The data includes following information:
 
@@ -47,8 +47,8 @@ The data used for this project were collected from [Citi Bike Data](https://www.
 - User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)  
 - Gender (Zero=unknown; 1=male; 2=female)  
 - Year of Birth  
-- Age (as of 2017)
-- Trip distance in miles
+- Age (as of 2018, 2019)
+- Trip distance 
 
 ## Instructions to run the Tableau Workbook
  
