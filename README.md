@@ -72,9 +72,10 @@ The data used for this project were collected from [Citi Bike Data](https://www.
 
 ## screen shots of the analysis 
 
-![](Screen_Shots/screen_shot1.PNG)
-![](Screen_Shots/screen_shot2.PNG)
-![](Screen_Shots/screen_shot3.PNG)
-![](Screen_Shots/screen_shot4.PNG)
-![](Screen_Shots/screen_shot5.PNG)
+![](Screen_Shots/screen_shot1.png)
+![](Screen_Shots/screen_shot2.png)
+![](Screen_Shots/screen_shot3.png)
+![](Screen_Shots/screen_shot4.png)
+![](Screen_Shots/screen_shot5.png)
+
     
