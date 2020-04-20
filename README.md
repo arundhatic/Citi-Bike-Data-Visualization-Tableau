@@ -50,7 +50,7 @@ The data used for this project were collected from [Citi Bike Data](https://www.
 - Age (as of 2017)
 - Trip distance in miles
 
-## installation and steps to run the Tableau Workbook
+## Instructions to run the Tableau Workbook
  
  - git lfs install
  - git lfs pull
