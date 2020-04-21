@@ -54,8 +54,7 @@ The data used for this project were collected from [Citi Bike Data](https://www.
  
  - git lfs install
  - git lfs pull
- - unzip the csv file in data folder, 2018_parsed_citibikenyc_tripdata.csv.zip
- - open the citi-bike-data-visualization_2018.twb with the above mentioned csv datasource
+ - open citi-bike-data-visualization_2018.twbx using the Tableau desktop version
 
 ## Steps and Approach
  
